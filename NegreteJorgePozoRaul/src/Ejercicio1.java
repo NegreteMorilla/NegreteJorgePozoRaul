@@ -35,6 +35,7 @@ public class Ejercicio1 {
 						System.out.println("Es un joven");
 					}
 					else{
+						//Comentario del alumno 2 (Jose Raul Pozo Baena)
 						System.out.println("Es un adulto");
 					}
 				}
