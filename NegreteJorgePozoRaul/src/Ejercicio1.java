@@ -17,8 +17,10 @@ public class Ejercicio1 {
 		//Inicio
 		System.out.println("Introduce la edad, máximo " + EDAD_MAXIMA);
 		edad = Integer.parseInt(teclado.nextLine()); // leer numero
-		//Comentario del alumno 2 (Jose Raul Pozo Baena)
 		
+		//Comentario del alumno 2 (Jose Raul Pozo Baena)
+		//Mi conflicto preferido
+
 		if (edad < 0 || edad >= EDAD_MAXIMA){
 			System.out.println("Edad incorrecta, no está en el rango indicado");
 		}
